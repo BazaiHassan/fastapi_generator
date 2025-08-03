@@ -194,9 +194,9 @@ This script is **step one**. Let’s build the future of backend bootstrapping �
 
 ---
 
-📌 **Maintainer**: [Your Name]  
-📧 **Contact**: you@example.com  
-📁 **Repository**: `github.com/yourname/datahub-api`
+📌 **Maintainer**: [Hassan Bazai]  
+📧 **Contact**: bazaee.hassan@gmail.com  
+📁 **Repository**: `https://github.com/BazaiHassan/fastapi_generator`
 ```
 
 ---
